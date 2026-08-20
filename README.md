@@ -19,11 +19,12 @@
 
 | Project | What it demonstrates | Technology |
 | --- | --- | --- |
-| [Phish Analyzer](https://github.com/AYANOKOJI-71/Phishing-link-checker) | Offline-first `.eml` triage with explainable URL indicators, header context, attachment hashes, opt-in threat intelligence, JSON reporting, and regression tests. | Python, CLI, defensive security |
-| [Apartment Rental System](https://github.com/AYANOKOJI-71/ApartmentRentalSystem) | Normalized MySQL schema, business-rule constraints, a derived availability view, fictional sample data, and operational reporting queries. | MySQL, relational design, SQL |
-| [Portfolio](https://ayanokoji-71.github.io/) | A responsive professional portfolio with accessible day/night preferences and focused project/achievement presentation. | HTML, CSS, JavaScript |
+| [DevSecOps CI/CD Platform](https://github.com/AYANOKOJI-71/devsecops-cicd-platform) | Security-gated delivery of a FastAPI service with automated tests, CodeQL, Trivy vulnerability/secret/IaC scans, immutable container releases, hardened Kubernetes manifests, Terraform, and GitHub OIDC for short-lived AWS credentials. | Python, FastAPI, GitHub Actions, Docker, Kubernetes, Terraform, AWS |
+| **ThreatAtlas** *(private repository)* | A safe, local-only threat-intelligence workspace that normalizes synthetic records, produces explainable 0–100 prioritization scores, organizes evidence, proposes ATT&CK-informed hypotheses, and generates defensive briefs through a React analyst console. | Python, FastAPI, React, Docker, ATT&CK-informed analysis |
+| [Phish Analyzer](https://github.com/AYANOKOJI-71/Phishing-link-checker) | An offline-first command-line tool for safe `.eml` triage. It extracts URLs, headers, and attachments; applies transparent phishing heuristics; generates JSON reports; and supports opt-in Safe Browsing, VirusTotal, WHOIS, and YARA integrations. | Python, CLI, defensive security, testing |
+| **DocAI** *(private repository)* | An AI-powered document-intelligence assistant with authenticated PDF/TXT ingestion, source-cited retrieval, and persistent chat history. The project is being refined as a full-stack application. | Python, document processing, retrieval, AI application development |
 
-I am also developing **DocAI**, an AI-powered document-intelligence assistant that combines authenticated PDF/TXT ingestion, source-cited retrieval, and persistent chat history. It is currently maintained in a private repository while the project is refined.
+These projects reflect my main direction: building practical software while applying security, explainability, safe defaults, and maintainable engineering practices from the beginning.
 
 ## Technical toolkit
 
