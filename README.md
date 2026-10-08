@@ -39,12 +39,12 @@ These projects reflect my main direction: building practical software while appl
 
 | Result | Event | Context |
 | --- | --- | --- |
+| **#1 globally** | BCS CTF 2026 | Champion |
+| **#1** |  Null Origin CTF Qualifiers | Champion |
+| **#10** | Cyber League Singapore Playoffs Qualifier | Qualified for Singapore |
 | **#8 globally** | Sieberrsec CTF 7.0 | Global placement |
 | **#3** | NSU Cybernauts CTF | Preliminary round |
 | **#7** | BUET CTF 2026 | Team placement |
-| **#22 globally** | TexSAW CTF 2026 | Team placement |
-| **#20 globally** | V1t CTF 2025 | Team placement |
-| **#3 on CTFtime** | Cyber Invasion Army | Co-founder and team achievement |
 
 ## Education and certifications
 
